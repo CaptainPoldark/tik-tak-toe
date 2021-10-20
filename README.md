@@ -23,11 +23,11 @@ placed on it, and can not be overwritten without clearing the board.
 
 ## Future improvements
 
-* Disable all tiles once a winner is determined. This may already be done with the mounted React
-state, but hasn't been implemented.
+* <details> <summary>Disable all tiles once a winner is determined.</summary><p>This may already be done with the mounted React
+state, but hasn't been implemented.</p></details>
 
-* Allow a human to play against the computer. This feature may initially call a function
-that adds a marker to a random null value in game state. The computer won't have any strategy
+* <details> <summary>Allow a human to play against the computer.</summary><p> This feature may initially call a function
+that adds a marker to a random null value in game state. The computer won't have any strategy</p></details>
 yet.
 
 * Add content to the sides of the screen on large displays.
