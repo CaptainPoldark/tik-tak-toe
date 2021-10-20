@@ -35,7 +35,7 @@ placed on it, and can not be overwritten without clearing the board.
 
 This app runs in the browser
 
-https://captainpoldark.github.io/tik-tak-toe/dist/
+https://captainpoldark.github.io/tik-tak-toe/
 
 ## Source
 
