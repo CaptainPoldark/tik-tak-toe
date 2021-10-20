@@ -49,3 +49,7 @@ https://github.com/CaptainPoldark/tik-tak-toe/tree/main
 
 This app is being made available as is. Improvements and
 suggestions are welcome. 
+
+## License
+
+[Named Link](https://github.com/CaptainPoldark/tik-tak-toe/blob/main/LICENSE "MIT LICENSE")
