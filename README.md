@@ -52,4 +52,4 @@ suggestions are welcome.
 
 ## License
 
-[Named Link](https://github.com/CaptainPoldark/tik-tak-toe/blob/main/LICENSE "MIT LICENSE")
+[MIT LICENSE](https://github.com/CaptainPoldark/tik-tak-toe/blob/main/LICENSE "MIT LICENSE")
