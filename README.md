@@ -19,6 +19,8 @@ tracking where markers are placed is cleared. The "Clear Board!" button is repla
 "Start Game!" button which will re-draw a blank board. Tiles are disabled once a marked is 
 placed on it, and can not be overwritten without clearing the board.
 
+![picture gameboard-screenshot](https://github.com/CaptainPoldark/tik-tak-toe/blob/main/images/game-board.PNG "Gameboard Screenshot")
+
 ## Future improvements
 
 * Disable all tiles once a winner is determined. This may already be done with the mounted React
